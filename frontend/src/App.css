@@ -1,0 +1,40 @@
+/* src/App.css */
+
+body {
+  background-color: #987292;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  font-style: normal;
+  color: bisque;
+  background-color: #a4345b;
+  border-radius: 10px;
+  padding: 10px;
+  display: inline-block;
+}
+
+button {
+  border-radius: 10px;
+  border-color: #e80d68;
+  background-color: bisque;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.positive {
+  color: green;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.negative {
+  color: red;
+  font-size: 18px;
+  font-weight: bold;
+}
